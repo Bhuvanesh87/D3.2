@@ -1,0 +1,20 @@
+{
+  "name":"Ramana",
+  "children":[
+                {
+                    "name":"Shiva",
+                    "children":[
+                                    {"name":"Harish"},
+                                    {"name":"Jagadeesh"},
+                                    {"name":"Rajesh"}
+                                ] 
+                },
+                {
+                    "name":"Ajay",
+                    "children":[
+                                    {"name":"Bhanu"},
+                                    {"name":"Prakash"}
+                                ]
+                }
+             ]
+}

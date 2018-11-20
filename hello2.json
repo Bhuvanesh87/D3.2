@@ -1,0 +1,37 @@
+{
+    "name": "Root",
+    "children": [
+                     {
+                            "name": "Parent Node",
+                            "children": [
+                                            {
+                                                "name": "child1",
+                                                "children": [
+                                                                {"name": "Sub child1-1", "size": 3938},
+                                                                {"name": "Sub child1-2", "size": 3812},
+                                                                {"name": "Sub child1-3", "size": 6714}      
+                                                            ]
+                                             },
+                                            {
+                                                "name": "Child2",
+                                                "children": [
+                                                                {"name": "Sub-Child2-1", "size": 3534},
+                                                                {"name": "Sub-Child2-2", "size": 5731}
+                                                
+                                                            ]
+                                            },
+                                            {
+                                                "name": "Child3",
+                                                "children": [
+                                                                {"name": "Sub child3-1", "size": 3938},
+                                                                {"name": "Sub child3-2", "size": 3812},
+                                                                {"name": "Sub child3-3", "size": 6714}     
+                                                            ]
+                                            }
+                       
+                                        ]        
+               
+                       }
+                    ]
+}
+                            
